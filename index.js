@@ -2501,19 +2501,19 @@ break
                 let papao = [{
 										"buttonId": `owner`,
 										"buttonText": {
-											"displayText": "OWNER"
+											"displayText": "OWNER IMAN PRO"
 											},
 										"type": "RESPONSE"
 										},{
 										"buttonId": `sewabot`,
 										"buttonText": {
-											"displayText": "SEWA"
+											"displayText": "SEWAIMANBOT"
 											},
 										"type": "RESPONSE"
 										},{
 										"buttonId": 'Command',
 										"buttonText": {
-											"displayText": "LIST MESSAGE"
+											"displayText": "IMANPRO"
 											},
 										"type": "RESPONSE"
 										}]
