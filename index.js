@@ -2507,13 +2507,13 @@ break
 										},{
 										"buttonId": `sewabot`,
 										"buttonText": {
-											"displayText": "SEWAIMANBOT"
+											"displayText": "SEWA IMANBOT"
 											},
 										"type": "RESPONSE"
 										},{
 										"buttonId": 'Command',
 										"buttonText": {
-											"displayText": "IMANPRO"
+											"displayText": "IMAN PRO"
 											},
 										"type": "RESPONSE"
 										}]
